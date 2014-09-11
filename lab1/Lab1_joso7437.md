@@ -21,7 +21,7 @@ The pi at line 4 is bound at line 3 because it is in the scope of
 the circumference function. The pi at line 7 is bound at 
 line 1 because it is not bound within the area function and therefore
 takes the global scope of pi at the first line.
-<\p>
+</p>
 	
 ### Part (b)
 
@@ -48,7 +48,7 @@ line 5 because it is the scope of the case match to x.
 The pi at line 10 is bound at line 5 because it is within the scope of
 the case match to x. The pi at line 13 is bound at line 1 because
 it takes the global scope of x and is outside of the function f.
-<\p>
+</p>
 	
 ## Problem 2
 
@@ -69,4 +69,4 @@ and
 
 (b, a + 2) : ((Int, Int), Int)
 because b: (Int, Int) and a+2: Int
-<\p>
+</p>
