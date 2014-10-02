@@ -63,8 +63,6 @@ one or more c's.
 
 ### Part (e)
 
-<p>
-
 <p> 1) 		S
 	     /	| \ \
              a  S c  B
@@ -84,7 +82,6 @@ one or more c's.
 			    |    |
 			    c    c
 
-</p>
 	
 ## Problem 2
 
@@ -121,8 +118,6 @@ original expression evaluation.
 
 ### Part (c)
 
-<p>
-
 <p> Float ::= Fractions | Exponents
 
 <p> Fractions ::= Sign | Sign n 
@@ -132,5 +127,3 @@ original expression evaluation.
 <p> Sign ::= n | -n
 
 <p> D ::= 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 
-
-</p>
