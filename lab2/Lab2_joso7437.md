@@ -51,9 +51,12 @@ one or more c's.
 
 1) S => AaBb => baBb => baab 
 
+
 2) This sentence is cannot be described by the grammar. 
 
+
 3) This sentence is cannot be described by the grammar. 
+
 
 4) S => AaBb => AbaBb => bbaBb => bbaab 
 
