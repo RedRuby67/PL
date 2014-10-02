@@ -49,16 +49,16 @@ one or more c's.
 
 <p>
 
-1) S => AaBb => baBb => baab 
+<p> 1) S => AaBb => baBb => baab 
 
 
-2) This sentence is cannot be described by the grammar. 
+<p> 2) This sentence is cannot be described by the grammar. 
 
 
-3) This sentence is cannot be described by the grammar. 
+<p> 3) This sentence is cannot be described by the grammar. 
 
 
-4) S => AaBb => AbaBb => bbaBb => bbaab 
+<p> 4) S => AaBb => AbaBb => bbaBb => bbaab 
 
 </p>
 
