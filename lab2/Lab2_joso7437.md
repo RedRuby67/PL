@@ -47,7 +47,6 @@ one or more c's.
 
 ### Part (d)
 
-<p>
 
 <p> 1) S => AaBb => baBb => baab 
 
@@ -60,7 +59,7 @@ one or more c's.
 
 <p> 4) S => AaBb => AbaBb => bbaBb => bbaab 
 
-</p>
+
 
 ### Part (e)
 
