@@ -64,7 +64,7 @@ one or more c's.
 ### Part (e)
 <p>
 
-<p> 1) 		S
+1) 		S
 	     /	| \ \
              a  S c  B
                 |    |
@@ -77,7 +77,7 @@ one or more c's.
 
 <p> 4) This sentence is cannot be described by the grammar.
 
-<p> 5)		            S
+ 5)		            S
 			  / | \ \
 			 a  S  c B
 			    |    |
