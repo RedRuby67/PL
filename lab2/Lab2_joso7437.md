@@ -66,20 +66,20 @@ one or more c's.
 
 <p>
 
-1) 		S
+<p> 1) 		S
 	     /	| \ \
              a  S c  B
                 |    |
                 b    d
 
 
-2) This sentence is cannot be described by the grammar.
+<p> 2) This sentence is cannot be described by the grammar.
 
-3) This sentence is cannot be described by the grammar.
+<p> 3) This sentence is cannot be described by the grammar.
 
-4) This sentence is cannot be described by the grammar.
+<p> 4) This sentence is cannot be described by the grammar.
 
-5)		            S
+<p> 5)		            S
 			  / | \ \
 			 a  S  c B
 			    |    |
