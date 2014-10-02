@@ -124,14 +124,14 @@ original expression evaluation.
 
 <p>
 
-Float ::= Fractions | Exponents
+<p> Float ::= Fractions | Exponents
 
-Fractions ::= Sign | Sign n 
+<p> Fractions ::= Sign | Sign n 
 
-Exponent ::= E Sign | ε
+<p> Exponent ::= E Sign | ε
 
-Sign ::= n | -n
+<p> Sign ::= n | -n
 
-D ::= 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 
+<p> D ::= 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 
 
 </p>
