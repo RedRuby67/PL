@@ -54,37 +54,150 @@ object Lab2 extends jsy.util.JsyApplication {
     require(isValue(v))
     (v: @unchecked) match {
       case N(n) => n
-      case _ => throw new UnsupportedOperationException
+      case B(false) => 0
+      case B(true) => 1
+      case Undefined => Double.NaN
+      case S(s) => s.toDouble
     }
   }
   
   def toBoolean(v: Expr): Boolean = {
     require(isValue(v))
     (v: @unchecked) match {
+      case N(0) => false
+      case N(Double.NaN) => false
+      case N(_) => true
       case B(b) => b
-      case _ => throw new UnsupportedOperationException
+      case Undefined => false
+      case S("") => false
+      case S(_) => true
     }
   }
   
   def toStr(v: Expr): String = {
     require(isValue(v))
     (v: @unchecked) match {
-      case S(s) => s
+      case N(n) => n.toString
+      case B(b) => b.toString
       case Undefined => "undefined"
-      case _ => throw new UnsupportedOperationException
+      case S(s) => s
     }
   }
   
-  def eval(env: Env, e: Expr): Expr = {
-    /* Some helper functions for convenience. */
-    def eToVal(e: Expr): Expr = eval(env, e)
+  
 
+  def eval(env: Env, e: Expr): Expr = {
+    def eToN(e: Expr): Double = toNumber(eval(env, e))
+    def eToB(e: Expr): Boolean = toBoolean(eval(env, e))
+    def eToVal(e: Expr): Expr = eval(env, e)
     e match {
       /* Base Cases */
+      case _ if isValue(e) => e
+      // Var
+      case Var(x) => get(env, x)
       
       /* Inductive Cases */
-      case Print(e1) => println(pretty(eToVal(e1))); Undefined
-
+      case Print(e1) => println(pretty(eval(env, e1))); Undefined
+      
+      // Neg
+      case Unary(Neg, e1) => 
+		N(-eToN(e1))
+        
+      // Not
+      case Unary(Not, e1) => 
+        B(!eToB(e1))
+      
+      // Plus
+      case Binary(Plus, e1, e2) => (eToVal(e1), eToVal(e2)) match {
+        case (S(s1), S(s2)) => S(s1 + s2)
+        case (S(s1), v2) => S(s1 + toStr(v2))
+        case (v1, S(s2)) => S(toStr(v1) + s2)
+        case (v1, v2) => N(toNumber(v1) + toNumber(v2))
+        case _ => N(eToN(e1) + eToN(e2))
+      }
+      
+      // Minus
+      case Binary(Minus, e1, e2) => 
+        N(eToN(e1) - eToN(e2))
+        
+      // Times
+      case Binary(Times, e1, e2) => 
+        N(eToN(e1) * eToN(e2))
+        
+      // Div
+      case Binary(Div, e1, e2) => 
+        N(eToN(e1) / eToN(e2))
+      
+      // Eq  
+      case Binary(Eq, e1, e2) => (eToVal(e1), eToVal(e2)) match {
+            case (e1, e2) => 
+              B(toNumber(eToVal(e1)) == toNumber(eToVal(e2)))
+            case _ => 
+              B(toNumber(eToVal(e1)) == toNumber(eToVal(e2)))
+        }
+      
+      // Ne
+      case Binary(Ne, e1, e2) => (eToVal(e1), eToVal(e2)) match {
+            case (e1, e2) => 
+              B(toNumber(eToVal(e1)) != toNumber(eToVal(e2)))
+            case _ => 
+              B(toNumber(eToVal(e1)) != toNumber(eToVal(e2)))
+      }
+        
+      
+      // Lt
+      case Binary(Lt, e1, e2) => (eToVal(e1), eToVal(e2)) match{
+        case (S(s1), S(s2)) =>
+          B(s1 < s2)
+        case _ =>
+          B(toNumber(e1) < toNumber(e2))
+      }
+      
+      // Le
+      case Binary(Le, e1, e2) => (eToVal(e1), eToVal(e2)) match{
+        case (S(s1), S(s2)) =>
+          B(s1 <= s2)
+        case _ =>
+          B(toNumber(e1) <= toNumber(e2))
+      }
+      
+      // Gt
+      case Binary(Gt, e1, e2) => (eToVal(e1), eToVal(e2)) match{
+        case (S(s1), S(s2)) =>
+          B(s1 > s2)
+        case _ =>
+          B(toNumber(e1) > toNumber(e2))
+      }
+      
+      // Ge
+      case Binary(Ge, e1, e2) => (eToVal(e1), eToVal(e2)) match{
+        case (S(s1), S(s2)) =>
+          B(s1 >= s2)
+        case _ =>
+          B(toNumber(e1) >= toNumber(e2))
+      }
+      
+      // And
+      case Binary(And, e1, e2) =>
+        if (eToB(eToVal(e1))) eToVal(e2) else eToVal(e1)
+      
+      // Or
+      case Binary(Or, e1, e2) =>
+        if (eToB(eToVal(e1))) eToVal(e1) else eToVal(e2)
+      
+      // Seq ,
+      case Binary(Seq, e1, e2) => 
+        eToVal(e1); eToVal(e2)
+      
+      // If
+      case If(e1, e2, e3) => 
+        if (eToB(e1)) eToVal(e2) else eToVal(e3)
+      
+      // Const
+      // const x = e1; e2
+      case ConstDecl(x, e1, e2) => 
+        eval(extend(env, x, eToVal(e1)), e2)
+      
       case _ => throw new UnsupportedOperationException
     }
   }
