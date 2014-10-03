@@ -63,7 +63,7 @@ one or more c's.
 
 ### Part (e)
 
-			S
+				S
 		     /	| \ \
              a  S c  B
                 |    |
