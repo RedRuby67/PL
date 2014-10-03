@@ -64,11 +64,11 @@ one or more c's.
 ### Part (e)
 
 1)
-		S
-	     /	| \ \
-             a  S c  B
-                |    |
-                b    d
+			S
+		     /	| \ \
+	             a  S c  B
+	                |    |
+	                b    d
 
 
 2) This sentence is cannot be described by the grammar.
@@ -78,11 +78,11 @@ one or more c's.
 4) This sentence is cannot be described by the grammar.
 
  5)
- 		            S
-			  / | \ \
-			 a  S  c B
-			    |    |
-			    c    c
+	 		            S
+				  / | \ \
+				 a  S  c B
+				    |    |
+				    c    c
 
 
 
