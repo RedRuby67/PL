@@ -69,6 +69,7 @@ one or more c's.
                 |    |
                 b    d
 
+1) This sentence can be shown by the grammar as shown in the tree above.
 
 2) This sentence is cannot be described by the grammar.
 
@@ -77,11 +78,15 @@ one or more c's.
 4) This sentence is cannot be described by the grammar.
 
 
-     	S
-		/ | \ \
-		 a  S  c B
-		    |    |
-		    c    c
+		 
+				S
+		     /	| \ \
+             a  S c  B
+                |    |
+                c    c
+                
+5) This sentence can be shown by the grammar as shown in the tree above.
+
 
 
 
