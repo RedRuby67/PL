@@ -62,7 +62,7 @@ one or more c's.
 </p>
 
 ### Part (e)
-
+<p>
 <p> 1)
 			S
 		     /	| \ \
@@ -85,7 +85,7 @@ one or more c's.
 		    c    c
 
 
-
+</p>
 	
 ## Problem 2
 
