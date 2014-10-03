@@ -63,19 +63,22 @@ one or more c's.
 
 ### Part (e)
 
+1) This sentence can be shown by the grammar as shown in the tree below
+
 				S
 		     /	| \ \
              a  S c  B
                 |    |
                 b    d
 
-1) This sentence can be shown by the grammar as shown in the tree above.
 
 2) This sentence is cannot be described by the grammar.
 
 3) This sentence is cannot be described by the grammar.
 
 4) This sentence is cannot be described by the grammar.
+
+5) This sentence can be shown by the grammar as shown in the tree below.
 
 
 		 
@@ -85,7 +88,7 @@ one or more c's.
                 |    |
                 c    c
                 
-5) This sentence can be shown by the grammar as shown in the tree above.
+
 
 
 
