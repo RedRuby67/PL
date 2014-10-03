@@ -70,11 +70,11 @@ one or more c's.
                 b    d
 
 
-<p> 2) This sentence is cannot be described by the grammar.
+2) This sentence is cannot be described by the grammar.
 
-<p> 3) This sentence is cannot be described by the grammar.
+3) This sentence is cannot be described by the grammar.
 
-<p> 4) This sentence is cannot be described by the grammar.
+4) This sentence is cannot be described by the grammar.
 
 
 		             	S
@@ -84,7 +84,7 @@ one or more c's.
 		    c    c
 
 
-</p>
+
 	
 ## Problem 2
 
