@@ -6,13 +6,13 @@
 
 ### Part (a)
 
-(A1 ε AObjects,  A2 ε AObjects)/(A1 & A2 ε AObjects)
+(A1 ε AObjects,  A2 ε AObjects) / (A1 & A2 ε AObjects)
 
-(V ε VObjects)/(V ε AObjects)
+(V ε VObjects) / (V ε AObjects)
 
-/(a ε VObjects)
+/ (a ε VObjects)
 
-/(b ε VObjects)
+/ (b ε VObjects)
 
 	
 ### Part (b)
