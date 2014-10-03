@@ -62,8 +62,7 @@ one or more c's.
 </p>
 
 ### Part (e)
-<p>
-<p> 1)
+
 			S
 		     /	| \ \
              a  S c  B
