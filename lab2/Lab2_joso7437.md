@@ -77,8 +77,8 @@ one or more c's.
 4) This sentence is cannot be described by the grammar.
 
 
-             	S
-			/ | \ \
+     	S
+		/ | \ \
 		 a  S  c B
 		    |    |
 		    c    c
