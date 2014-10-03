@@ -46,7 +46,7 @@ one or more c's.
 </p>	
 
 ### Part (d)
-<p>
+
 
 <p> 1) S => AaBb => baBb => baab 
 
@@ -59,16 +59,16 @@ one or more c's.
 
 <p> 4) S => AaBb => AbaBb => bbaBb => bbaab 
 
-</p>
+
 
 ### Part (e)
 
 1)
 			S
 		     /	| \ \
-	             a  S c  B
-	                |    |
-	                b    d
+             a  S c  B
+                |    |
+                b    d
 
 
 2) This sentence is cannot be described by the grammar.
@@ -78,11 +78,11 @@ one or more c's.
 4) This sentence is cannot be described by the grammar.
 
  5)
-	 		            S
-				  / | \ \
-				 a  S  c B
-				    |    |
-				    c    c
+		             S
+			  / | \ \
+		 a  S  c B
+		    |    |
+		    c    c
 
 
 
