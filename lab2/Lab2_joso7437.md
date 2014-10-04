@@ -17,16 +17,16 @@
 	
 ### Part (b)
 
-		   A				
-		/  |  \
+				   A				
+				/  |  \
        A   &   A
      / | \     |
     A  &  A    V   	
     |	  |    |
     b     a    b
 
-		   A
-		/  |  \
+				   A
+				/  |  \
        A   &   A
        |     / | \
        V    A  &  A
@@ -65,8 +65,8 @@ one or more c's.
 
 1) This sentence can be shown by the grammar as shown in the tree below
 
-				S
-		     /	| \ \
+								S
+					 /	| \ \
              a  S c  B
                 |    |
                 b    d
@@ -82,8 +82,8 @@ one or more c's.
 
 
 		 
-				S
-		     /	| \ \
+								S
+					/	| \ \
              a  S c  B
                 |    |
                 c    c
