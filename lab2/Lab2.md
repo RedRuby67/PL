@@ -17,26 +17,16 @@
 	
 ### Part (b)
 
-<<<<<<< HEAD
-				   A				
-				/  |  \
-=======
 		   A				
 		/  |  \
->>>>>>> 322a0f98efb90058d50bb4f38dd2d7164870e1ee
        A   &   A
      / | \     |
     A  &  A    V   	
     |	  |    |
     b     a    b
 
-<<<<<<< HEAD
-				   A
-				/  |  \
-=======
 		   A
 		/  |  \
->>>>>>> 322a0f98efb90058d50bb4f38dd2d7164870e1ee
        A   &   A
        |     / | \
        V    A  &  A
@@ -75,13 +65,8 @@ one or more c's.
 
 1) This sentence can be shown by the grammar as shown in the tree below
 
-<<<<<<< HEAD
-								S
-					 /	| \ \
-=======
 				S
-		     /	| \ \
->>>>>>> 322a0f98efb90058d50bb4f38dd2d7164870e1ee
+			 /	| \ \
              a  S c  B
                 |    |
                 b    d
@@ -97,13 +82,8 @@ one or more c's.
 
 
 		 
-<<<<<<< HEAD
-								S
-					/	| \ \
-=======
 				S
-		     /	| \ \
->>>>>>> 322a0f98efb90058d50bb4f38dd2d7164870e1ee
+			/	| \ \
              a  S c  B
                 |    |
                 c    c
@@ -158,7 +138,3 @@ original expression evaluation.
 <p> Sign ::= n | -n
 
 <p> D ::= 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 
-<<<<<<< HEAD
-=======
-
->>>>>>> 322a0f98efb90058d50bb4f38dd2d7164870e1ee
