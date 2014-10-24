@@ -17,16 +17,16 @@
 	
 ### Part (b)
 
-				   A				
-				/  |  \
+		   A				
+		/  |  \
        A   &   A
      / | \     |
     A  &  A    V   	
     |	  |    |
     b     a    b
 
-				   A
-				/  |  \
+		   A
+		/  |  \
        A   &   A
        |     / | \
        V    A  &  A
@@ -65,8 +65,8 @@ one or more c's.
 
 1) This sentence can be shown by the grammar as shown in the tree below
 
-								S
-					 /	| \ \
+				S
+			 /	| \ \
              a  S c  B
                 |    |
                 b    d
@@ -82,8 +82,8 @@ one or more c's.
 
 
 		 
-								S
-					/	| \ \
+				S
+			/	| \ \
              a  S c  B
                 |    |
                 c    c
@@ -113,7 +113,6 @@ grammar is right-associative.
 
 ### Part (b)
 
-<p>
 
 A scala expression that demonstrates that '-' has a higher precedence
 than '<<' could is: 5 << 7-3 << 2. When run on the interpreter, this 
@@ -124,7 +123,6 @@ disproves that '<<' has higher precedence, because the expression
 (5 << 7) - (3 << 2) evaluates to 628, which is not the same as the 
 original expression evaluation. 
 
-</p>
 
 
 ### Part (c)
