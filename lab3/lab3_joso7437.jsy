@@ -1,0 +1,6 @@
+const x = 1;
+
+const f = function(y) { return x; };
+const g = function(x) { return f(10); };
+
+jsy.print(g(5));
