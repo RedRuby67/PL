@@ -1,6 +1,6 @@
 # Lab3.md
 
-## Jonathan Song
+## Jonathan Song & Louis BOUDDHOU
 
 ## Problem 1
 
@@ -42,6 +42,16 @@ The evaluation order can be reversed by basically reversing e1 and e2 in
 the rules in such a way that it forces the program to first evaluate e2 to
 a value before e1 can be evaluated.
 </p>
+```
+		   e1 -> e1'					   e2 -> e2'
+	-----------------------			----------------------- 	with bop{+,-,*}
+	e1 bop e2 -> e1' bop e2			v1 bop e2 -> v1 bop e2'
+
+
+	       n' = n1 + n2
+	So:	   ------------
+		   n1 + n2 = n'
+```
 
 
 ## Problem 4
@@ -66,4 +76,15 @@ operation semantics short circuit in cases when e1, the left side
 of the equation is false. It demonstrates that when e1 is false, then
 the expression returns false regardless of the value of e2.
 </p>
+```
+	____________________  
+	false && e2 -> false	SO if left side false it will evaluate to false
+
+	_____________________        	______________________
+	v1 && e2 -> v1 && e2'			false && true -> false
+
+	______________________			_____________________
+	true && false -> false			true && true -> true
+
+```
 
