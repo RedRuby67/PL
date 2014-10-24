@@ -1,0 +1,4 @@
+x = 10
+foo = function(y) { print x};
+bar = function(x) {return foo(3)};
+bar(7)
