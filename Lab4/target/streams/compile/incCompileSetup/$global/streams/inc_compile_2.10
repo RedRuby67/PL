@@ -1,0 +1,722 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.3
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+98 items
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$1.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$2.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$3.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$4.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$5.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$6.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$freeVars$1.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$freeVars$2.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$freeVars$3.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$isValue$1.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$And$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$B$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$B.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Binary$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Binary.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Bop.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Call$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Call.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$ConstDecl$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$ConstDecl.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Div$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$DynamicTypeError$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$DynamicTypeError.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Eq$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Expr.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Function$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Function.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Ge$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$GetField$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$GetField.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Gt$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$If$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$If.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Le$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Lt$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Minus$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$N$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$N.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Ne$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Neg$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Not$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Obj$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Obj.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Or$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Plus$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Print$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Print.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$S$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$S.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Seq$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$StaticTypeError$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$StaticTypeError.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$StuckError$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$StuckError.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$TBool$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$TFunction$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$TFunction.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Times$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$TNumber$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$TObj$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$TObj.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$TString$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$TUndefined$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Typ.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Unary$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Unary.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Undefined$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Uop.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Var$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Var.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$1.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$2.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$3.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$4.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$5.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$compressFold$1.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$hasFunctionTyp$1.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$processFile$1.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$processFile$2.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$step$1.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$step$2.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$step$3.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$step$4.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$substitute$1.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$substitute$2.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$substitute$3.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$sum$1.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$treeFromList$1.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$typeInfer$1.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$typeInfer$2.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$Empty$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$Node$.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$Node.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$Tree.class
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4.class
+binary dependencies:
+6 items
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Fall 2014\PrincProg\Lab4\lib\liblab4.jar
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Program Files\Java\jre7\lib\rt.jar
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\jsong10\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.3.jar
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> C:\Fall 2014\PrincProg\Lab4\lib\liblab4.jar
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> C:\Program Files\Java\jre7\lib\rt.jar
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> C:\Users\jsong10\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.3.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+98 items
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$$anonfun$1
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$$anonfun$2
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$$anonfun$3
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$$anonfun$4
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$$anonfun$5
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$$anonfun$6
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$$anonfun$freeVars$1
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$$anonfun$freeVars$2
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$$anonfun$freeVars$3
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$$anonfun$isValue$1
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$And$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$B
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$B$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Binary
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Binary$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Bop
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Call
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Call$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$ConstDecl
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$ConstDecl$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Div$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$DynamicTypeError
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$DynamicTypeError$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Eq$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Expr
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Function
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Function$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Ge$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$GetField
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$GetField$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Gt$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$If
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$If$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Le$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Lt$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Minus$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$N
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$N$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Ne$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Neg$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Not$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Obj
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Obj$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Or$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Plus$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Print
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Print$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$S
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$S$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Seq$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$StaticTypeError
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$StaticTypeError$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$StuckError
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$StuckError$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$TBool$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$TFunction
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$TFunction$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$TNumber$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$TObj
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$TObj$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$TString$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$TUndefined$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Times$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Typ
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Unary
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Unary$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Undefined$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Uop
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Var
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Var$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Lab4
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Lab4$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$1
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$2
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$3
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$4
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$5
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$compressFold$1
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$hasFunctionTyp$1
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$processFile$1
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$processFile$2
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$step$1
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$step$2
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$step$3
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$step$4
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$substitute$1
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$substitute$2
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$substitute$3
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$sum$1
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$treeFromList$1
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$typeInfer$1
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$typeInfer$2
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Lab4$Empty$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Lab4$Node
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Lab4$Node$
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Lab4$Tree
+used names:
+344 items
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> &&
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> +
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> -
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> --
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> <init>
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> ==
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> AbstractFunction1
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> AbstractFunction2
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> AbstractFunction3
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> AbstractFunction4
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> And
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> AnyRef
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> B
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Binary
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Boolean
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Bop
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Call
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> ConstDecl
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Div
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Double
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> DynamicTypeError
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Eq
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Exception
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Expr
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Function
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Ge
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> GetField
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Gt
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> If
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Iterable
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Le
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> List
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Lt
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Map
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Minus
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> N
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Ne
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Neg
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> None
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Not
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Obj
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Option
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Or
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Parser
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Plus
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Positional
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Predef
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Print
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Product
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> S
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> ScalaRunTime
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Seq
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Serializable
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Set
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> StaticTypeError
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Statics
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> String
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> StuckError
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> TBool
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> TFunction
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> TNumber
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> TObj
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> TString
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> TUndefined
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Times
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> TreeMap
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Tuple2
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Typ
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Unary
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Undefined
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Uop
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> Var
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> _1
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> _2
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> _hashCode
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> _toString
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> acc
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> apply
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> args
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> asInstanceOf
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> ast
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> augmentString
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> b
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> bop
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> canBuildFrom
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> collection
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> doubleHash
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> e
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> e1
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> e2
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> e3
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> ei
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> empty
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> eq
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> esub
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> f
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> fields
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> finalizeHash
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> foldLeft
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> forall
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> format
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> formatErrorMessage
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> freeVars
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> immutable
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> input
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> isEmpty
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> isInstanceOf
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> isValue
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> jsy
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> lab4
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> map
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> mix
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> n
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> ne
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> option2Iterable
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> p
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> package
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> params
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> parsing
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> pos
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> pretty
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> pretty_fields
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> pretty_params
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> reduceRight
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> require
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> runtime
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> s
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> scala
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> t
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> tann
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> tbad
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> tfields
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> toString
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> tret
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> typedProductIterator
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> uop
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> util
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> v
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> x
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> |
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> ||
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> !=
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> &&
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> *
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> +
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> -
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> ->
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> /
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> :+
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> ::
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> <
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> <=
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> <init>
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> ==
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> >
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> >=
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> A
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> AbstractFunction3
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> And
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Any
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> AnyRef
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Boolean
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Bop
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Div
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Empty
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Eq
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Expr
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> File
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Function1
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Function2
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Ge
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Gt
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Int
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> JsyApplication
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Lab4
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Le
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> List
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Lt
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Map
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Minus
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Ne
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Neg
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Nil
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Node
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> None
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Not
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Nothing
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Option
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Or
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Parser
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Plus
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Predef
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Product
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> ScalaRunTime
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Seq
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Serializable
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Statics
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> String
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> StuckError
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> T
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> TBool
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> TNumber
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> TString
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> TUndefined
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Times
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Tree
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Tuple2
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Typ
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Undefined
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> Unit
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> ZippedTraversable2
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> _1
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> _2
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> _3
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> _root_
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> _toString
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> a
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> acc
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> any2ArrowAssoc
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> anyHash
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> apply
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> args
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> asInstanceOf
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> ast
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> augmentString
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> b
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> b1
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> bop
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> c
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> canBuildFrom
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> closed
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> compressRec
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> conforms
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> d
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> debug
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> debug_=
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> e
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> e1
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> e1p
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> e2
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> e2got
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> e3
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> e3got
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> empty
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> env
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> env1
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> env2
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> eq
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> err
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> exists
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> exp
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> expr
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> f
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> f1
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> fields
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> file
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> finalizeHash
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> foldLeft
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> foldRight
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> forall
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> foreach
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> format
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> get
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> getName
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> getOrElse
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> h
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> h1
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> h2
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> handle
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> hasFunctionTyp
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> i
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> immutable
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> indent
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> inequalityVal
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> inferType
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> insert
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> io
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> isInstanceOf
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> isValue
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> iterateStep
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> java
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> jsy
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> l
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> lab4
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> length
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> loop
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> map
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> mapFirst
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> mapValues
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> mix
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> n
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> n1
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> n2
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> ne
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> p
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> package
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> params
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> parse
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> parseFile
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> pretty
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> println
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> processFile
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> r
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> require
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> ret
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> runtime
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> s
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> s1
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> s2
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> scala
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> spacer
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> step
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> subst
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> substitute
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> t
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> t1
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> tann
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> tfields
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> tgot
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> tn
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> toString
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> tprime
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> tret
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> tuple2ToZippedOps
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> typ
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> typeInfer
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> typedProductIterator
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> unary_!
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> unary_-
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> unchecked
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> uop
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> util
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> v
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> v1
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> v2
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> vars
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> x
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> x1
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> xn
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> y
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> z
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> zipped
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> zippedTraversable2ToTraversable
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> ||
+product stamps:
+98 items
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$1.class -> lastModified(1415810464674)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$2.class -> lastModified(1415810464679)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$3.class -> lastModified(1415810464684)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$4.class -> lastModified(1415810464687)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$5.class -> lastModified(1415810464690)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$6.class -> lastModified(1415810464693)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$freeVars$1.class -> lastModified(1415810464696)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$freeVars$2.class -> lastModified(1415810464699)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$freeVars$3.class -> lastModified(1415810464702)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$isValue$1.class -> lastModified(1415810464706)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$.class -> lastModified(1415810464667)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$And$.class -> lastModified(1415810464710)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$B$.class -> lastModified(1415810464721)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$B.class -> lastModified(1415810464717)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Binary$.class -> lastModified(1415810464726)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Binary.class -> lastModified(1415810464735)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Bop.class -> lastModified(1415810464753)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Call$.class -> lastModified(1415810464758)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Call.class -> lastModified(1415810464765)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$ConstDecl$.class -> lastModified(1415810464778)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$ConstDecl.class -> lastModified(1415810464774)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Div$.class -> lastModified(1415810464782)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$DynamicTypeError$.class -> lastModified(1415810464793)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$DynamicTypeError.class -> lastModified(1415810464789)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Eq$.class -> lastModified(1415810464821)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Expr.class -> lastModified(1415810464823)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Function$.class -> lastModified(1415810464859)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Function.class -> lastModified(1415810464851)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Ge$.class -> lastModified(1415810464864)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$GetField$.class -> lastModified(1415810464868)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$GetField.class -> lastModified(1415810464876)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Gt$.class -> lastModified(1415810464880)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$If$.class -> lastModified(1415810464884)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$If.class -> lastModified(1415810464911)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Le$.class -> lastModified(1415810464916)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Lt$.class -> lastModified(1415810464920)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Minus$.class -> lastModified(1415810464924)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$N$.class -> lastModified(1415810464928)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$N.class -> lastModified(1415810464935)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Ne$.class -> lastModified(1415810464939)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Neg$.class -> lastModified(1415810464944)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Not$.class -> lastModified(1415810464948)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Obj$.class -> lastModified(1415810464961)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Obj.class -> lastModified(1415810464955)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Or$.class -> lastModified(1415810464965)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Plus$.class -> lastModified(1415810464968)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Print$.class -> lastModified(1415810464972)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Print.class -> lastModified(1415810464978)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$S$.class -> lastModified(1415810464981)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$S.class -> lastModified(1415810464987)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Seq$.class -> lastModified(1415810464991)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$StaticTypeError$.class -> lastModified(1415810465017)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$StaticTypeError.class -> lastModified(1415810464999)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$StuckError$.class -> lastModified(1415810465021)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$StuckError.class -> lastModified(1415810465026)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$TBool$.class -> lastModified(1415810465031)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$TFunction$.class -> lastModified(1415810465042)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$TFunction.class -> lastModified(1415810465038)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Times$.class -> lastModified(1415810465086)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$TNumber$.class -> lastModified(1415810465046)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$TObj$.class -> lastModified(1415810465074)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$TObj.class -> lastModified(1415810465052)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$TString$.class -> lastModified(1415810465078)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$TUndefined$.class -> lastModified(1415810465082)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Typ.class -> lastModified(1415810465087)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Unary$.class -> lastModified(1415810465091)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Unary.class -> lastModified(1415810465098)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Undefined$.class -> lastModified(1415810465101)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Uop.class -> lastModified(1415810465103)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Var$.class -> lastModified(1415810465113)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast$Var.class -> lastModified(1415810465109)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\jsy\lab4\ast.class -> lastModified(1415810464631)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$1.class -> lastModified(1415810464481)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$2.class -> lastModified(1415810464488)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$3.class -> lastModified(1415810464492)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$4.class -> lastModified(1415810464497)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$5.class -> lastModified(1415810464500)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$compressFold$1.class -> lastModified(1415810464505)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$hasFunctionTyp$1.class -> lastModified(1415810464508)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$processFile$1.class -> lastModified(1415810464511)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$processFile$2.class -> lastModified(1415810464514)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$step$1.class -> lastModified(1415810464517)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$step$2.class -> lastModified(1415810464521)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$step$3.class -> lastModified(1415810464534)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$step$4.class -> lastModified(1415810464539)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$substitute$1.class -> lastModified(1415810464543)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$substitute$2.class -> lastModified(1415810464547)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$substitute$3.class -> lastModified(1415810464550)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$sum$1.class -> lastModified(1415810464554)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$treeFromList$1.class -> lastModified(1415810464558)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$typeInfer$1.class -> lastModified(1415810464564)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$$anonfun$typeInfer$2.class -> lastModified(1415810464568)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$.class -> lastModified(1415810464469)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$Empty$.class -> lastModified(1415810464574)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$Node$.class -> lastModified(1415810464578)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$Node.class -> lastModified(1415810464591)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4$Tree.class -> lastModified(1415810464601)
+C:\Fall 2014\PrincProg\Lab4\target\scala-2.10\classes\Lab4.class -> lastModified(1415810464212)
+source stamps:
+2 items
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> hash(4b893a43bea91ad29a3bb119e3f5fb58993e8283)
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> hash(348541e2cddc99ee438efba167c1c722135f91e9)
+binary stamps:
+3 items
+C:\Fall 2014\PrincProg\Lab4\lib\liblab4.jar -> lastModified(1408678099000)
+C:\Program Files\Java\jre7\lib\rt.jar -> lastModified(1412660054064)
+C:\Users\jsong10\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.3.jar -> lastModified(1380275091000)
+class names:
+3 items
+C:\Fall 2014\PrincProg\Lab4\lib\liblab4.jar -> jsy.lab4.Parser$
+C:\Program Files\Java\jre7\lib\rt.jar -> java.lang.Exception
+C:\Users\jsong10\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.3.jar -> scala.runtime.AbstractFunction3
+internal apis:
+2 items
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD8QCGnAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAdnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cKD0/9R0AAFlc3EAfgAMBUA203QABm5vdGlmeXNxAH4ADNyOkp50AAd1bmFwcGx5c3EAfgAMzOUaHXQAAXNzcQB+AAwGPl9ZdAAHY3VycmllZHNxAH4ADANeRG90AAF4c3EAfgAML3FkHHQAD3ByaW50U3RhY2tUcmFjZXNxAH4ADAPLEYl0ABNnZXRMb2NhbGl6ZWRNZXNzYWdlc3EAfgAMW8H8f3QABHdhaXRzcQB+AAxVw4n9dAAIRnVuY3Rpb25zcQB+AAz3hfihdAAFVW5hcnlzcQB+AAxv6D+GdAAOY29weSRkZWZhdWx0JDJzcQB+AAzNfeU+dAANJGFzSW5zdGFuY2VPZnNxAH4ADMlgu710AAFuc3EAfgAMWylBd3QAB2NvbXBvc2VzcQB+AAyDBWGqdAADVmFyc3EAfgAMBFEL1XQAClRVbmRlZmluZWRzcQB+AAyvfZeudAAHdGZpZWxkc3NxAH4ADNsfpI50AAJlMXNxAH4ADEWr9Bx0AAFOc3EAfgAM+Q8mZHQADHByb2R1Y3RBcml0eXNxAH4ADINhCqx0AAZlcXVhbHNzcQB+AAwGAilDdAAFUHJpbnRzcQB+AAyfnR0cdAAGY2xvc2Vkc3EAfgAMKuZXh3QAA3VvcHNxAH4ADHvAiNB0ABBmaWxsSW5TdGFja1RyYWNlc3EAfgAMt6iD73QAA0JvcHNxAH4ADAEbxeJ0AAlpbml0Q2F1c2VzcQB+AAy7KquMdAAMYXNJbnN0YW5jZU9mc3EAfgAMWKHKKHQACVVuZGVmaW5lZHNxAH4ADOs39Rp0AAZwcmV0dHlzcQB+AAwDNL+8dAAERXhwcnNxAH4ADCVSoBZ0AAFmc3EAfgAMYLS9XXQAA3Bvc3NxAH4ADJsy++R0AAZwYXJhbXNzcQB+AAy2Aor/dAAMc3luY2hyb25pemVkc3EAfgAMW7zml3QACEdldEZpZWxkc3EAfgAMcxTFiXQACGZyZWVWYXJzc3EAfgAMwqOKAnQAA0FuZHNxAH4ADDDbV+90AA0kaXNJbnN0YW5jZU9mc3EAfgAMI7jW63QAB2lzVmFsdWVzcQB+AAyUZrf2dAAHYW5kVGhlbnNxAH4ADAvPZJ10AAhnZXRDYXVzZXNxAH4ADGt0Njp0AAZ0dXBsZWRzcQB+AAwsCshZdAADVHlwc3EAfgAMj4yNfXQACGNhbkVxdWFsc3EAfgAM4pW16XQAAkx0c3EAfgAMrzujYXQAAkd0c3EAfgAMq/ZD3nQADmNvcHkkZGVmYXVsdCQ0c3EAfgAMyz12DnQAAk5lc3EAfgAM/PYqp3QACUNvbnN0RGVjbHNxAH4ADDcYXJx0AA1wcm9kdWN0UHJlZml4c3EAfgAMCptpYnQACW5vdGlmeUFsbHNxAH4ADN3yc/p0AAtyZWFkUmVzb2x2ZXNxAH4ADB82/iV0AARQbHVzc3EAfgAMPJq8gXQADGlzSW5zdGFuY2VPZnNxAH4ADCVqT5V0AARlc3Vic3EAfgAMDku/InQABHRiYWRzcQB+AAzTsiBWdAAQRHluYW1pY1R5cGVFcnJvcnNxAH4ADPnXUP90AA1nZXRTdGFja1RyYWNlc3EAfgAMV2DBkXQAFGdldFN0YWNrVHJhY2VFbGVtZW50c3EAfgAMEAp9BXQABU1pbnVzc3EAfgAM1WA1cHQAA05lZ3NxAH4ADB7O2R10AApTdHVja0Vycm9yc3EAfgAMFZw8G3QABHRhbm5zcQB+AAz6LVYJdAAHVE51bWJlcnNxAH4ADCTCM/J0AAY8aW5pdD5zcQB+AAy4qY7LdAADU2Vxc3EAfgAMEfQ+6nQAAkxlc3EAfgAMX1Z8iXQACmdldE1lc3NhZ2VzcQB+AAyouxojdAADVW9wc3EAfgAMyQZujHQADXNldFN0YWNrVHJhY2VzcQB+AAxO9U1fdAABYnNxAH4ADN2dVHR0AAVhcHBseXNxAH4ADGHWLX90AAJlM3NxAH4ADCarTKB0AA1nZXRTdXBwcmVzc2Vkc3EAfgAMoUSRNXQAAUJzcQB+AAwwQn8wdAACRXFzcQB+AAzl0B2JdAACPT1zcQB+AAwAoSKrdAACSWZzcQB+AAxSM3msdAASZ2V0U3RhY2tUcmFjZURlcHRoc3EAfgAMVBZHy3QABWNsb25lc3EAfgAMsYtpl3QABmZpZWxkc3NxAH4ADH/pdTB0AAZCaW5hcnlzcQB+AAwsOW1vdAADYm9wc3EAfgAMP966LHQADWFkZFN1cHByZXNzZWRzcQB+AAxnfr1RdAAGc2V0UG9zc3EAfgAMo+obIHQAAXBzcQB+AAygTy65dAAJVEZ1bmN0aW9uc3EAfgAM6v8ClnQAA09ianNxAH4ADHD79G50AAVUQm9vbHNxAH4ADFTg1+h0AAR0cmV0c3EAfgAMqeyWrXQADmNvcHkkZGVmYXVsdCQzc3EAfgAMCmEIsHQAA05vdHNxAH4ADFNsHtB0AARjb3B5c3EAfgAMM+SbEnQAD1N0YXRpY1R5cGVFcnJvcnNxAH4ADDhRfi10AAh0b1N0cmluZ3NxAH4ADOy280p0AARhcmdzc3EAfgAMNDmiTXQAAiE9c3EAfgAMxxOBd3QABVRpbWVzc3EAfgAMHrtae3QACGdldENsYXNzc3EAfgAMSj2nxXQADmNvcHkkZGVmYXVsdCQxc3EAfgAMfjnf2HQAA2FzdHNxAH4ADC/3xIJ0AAJlMnNxAH4ADKBcIvd0AARUT2Jqc3EAfgAMEmWNbXQAAkdlc3EAfgAMIKkR73QAAm5lc3EAfgAMdrQSAXQABENhbGxzcQB+AAyvGguKdAAHVFN0cmluZ3NxAH4ADMupU4B0AAJlcXNxAH4ADJQ2yol0AANEaXZzcQB+AAzyLPdJdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMJmeCvnQAAiMjc3EAfgAMERfRCXQACGZpbmFsaXplc3EAfgAMMiWvwXQADnByb2R1Y3RFbGVtZW50c3EAfgAMnvL4xnQACGhhc2hDb2Rlc3EAfgAMiPi0rnQAAk9yc3EAfgAMq4THdnQAAVNzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgEDeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAManN5LmxhYjQuYXN0dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4BHHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4BGwBwc3EAfgEgc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AQNMAAlpbmhlcml0ZWRxAH4BA0wAB3BhcmVudHNxAH4BA3hxAH4BJHNxAH4BGwBwc3EAfgEgdXEAfgD+AAAAAHNxAH4BGwBwc3EAfgEgdXEAfgD+AAAAAHNxAH4BGwBwc3EAfgEgdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgEjdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgEjc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgFAdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgFBc3EAfgE0dAADQW55c3EAfgE4c3EAfgE7dXEAfgE+AAAAAnNxAH4BQHQABXNjYWxhcQB+AUd1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAhqc3kubGFiNHNxAH4BUXQAA2pzeXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSaTg6nF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA1QzpcRmFsbCAyMDE0XFByaW5jUHJvZ1xMYWI0XHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRLiTpDvqka0po7sRnj9ftYmT6Cgw==
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDUaSUYAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAQXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMJR/GZ0AAZub3RpZnlzcQB+AAz8Dp0tdAAHdW5hcHBseXNxAH4ADKZc4ex0AAphbm9uT3B0aW9uc3EAfgAML6rxV3QAD3N0cmljdGx5T3JkZXJlZHNxAH4ADJZzktx0AAdjdXJyaWVkc3EAfgAMcEww+HQADGNvbXByZXNzRm9sZHNxAH4ADGh86PB0AAR3YWl0c3EAfgAMpIMkDHQABHN0ZXBzcQB+AAzCAKZWdAAOY29weSRkZWZhdWx0JDJzcQB+AAz0sfGGdAANJGFzSW5zdGFuY2VPZnNxAH4ADF8GaJd0AAlrZWVwR29pbmdzcQB+AAxccSLJdAAGaW5zZXJ0c3EAfgAM2ih81nQADHByb2R1Y3RBcml0eXNxAH4ADJqdDOR0AAZlcXVhbHNzcQB+AAwMUmqxdAAETGFiNHNxAH4ADL9trIF0AAxhc0luc3RhbmNlT2ZzcQB+AAy5db4kdAAJaW5mZXJUeXBlc3EAfgAMv46NsXQABnByZXR0eXNxAH4ADOSCyHN0AAxzeW5jaHJvbml6ZWRzcQB+AAw7OGiOdAAFaXNKc3lzcQB+AAzAdtIAdAAEVHJlZXNxAH4ADOO3Z1F0AA0kaXNJbnN0YW5jZU9mc3EAfgAMaUdZ1nQABE5vZGVzcQB+AAwByrk8dAAGdHVwbGVkc3EAfgAMMPj3gXQACXR5cGVJbmZlcnNxAH4ADPxMcEF0AAhjYW5FcXVhbHNxAH4ADLhjiPh0AARtYWluc3EAfgAM1Vl9A3QADXByb2R1Y3RQcmVmaXhzcQB+AAzl+pLqdAALY29tcHJlc3NSZWNzcQB+AAzjlhbodAAJbm90aWZ5QWxsc3EAfgAMXuCCn3QAC3JlYWRSZXNvbHZlc3EAfgAMZ1cKdXQABWRlYnVnc3EAfgAMTGB6o3QAC2ZsYWdPcHRpb25zc3EAfgAM/+Aj9HQADGlzSW5zdGFuY2VPZnNxAH4ADAU0U+F0AAY8aW5pdD5zcQB+AAxIOetEdAAFYXBwbHlzcQB+AAzSfuBldAAFRW1wdHlzcQB+AAyzMl+6dAABbHNxAH4ADGQTdBt0AAI9PXNxAH4ADO7ttpl0AAhtYXBGaXJzdHNxAH4ADAhL1hp0AAVjbG9uZXNxAH4ADL04yXJ0AA5oYXNGdW5jdGlvblR5cHNxAH4ADEKoKYd0AApzdWJzdGl0dXRlc3EAfgAM5NDH9nQADmNvcHkkZGVmYXVsdCQzc3EAfgAMk/sDBXQABGNvcHlzcQB+AAwI9GmCdAAIdG9TdHJpbmdzcQB+AAxKHWtWdAALaXRlcmF0ZVN0ZXBzcQB+AAwg2XYJdAACIT1zcQB+AAyvN4ApdAAMdHJlZUZyb21MaXN0c3EAfgAMYvaxEXQACGdldENsYXNzc3EAfgAM6b4iB3QADmNvcHkkZGVmYXVsdCQxc3EAfgAMk0iLH3QADWluZXF1YWxpdHlWYWxzcQB+AAxi5M/JdAABcnNxAH4ADAfuIiZ0AAhmb2xkTGVmdHNxAH4ADLR42ON0AAJuZXNxAH4ADNvMWx10AAJlcXNxAH4ADJDIeH50AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAyE3qxJdAADc3Vtc3EAfgAMkmKkEXQAAiMjc3EAfgAM3fVd43QACGZpbmFsaXplc3EAfgAMEIman3QADnByb2R1Y3RFbGVtZW50c3EAfgAMmoJYm3QACGhhc2hDb2Rlc3EAfgAMUrzc5HQABmhhbmRsZXNxAH4ADEO5+850AAtwcm9jZXNzRmlsZXNxAH4ADN2aKax0AAFkc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AmXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgArdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AsXhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AsABwc3EAfgC1c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AJlMAAlpbmhlcml0ZWRxAH4AmUwAB3BhcmVudHNxAH4AmXhxAH4AuXNxAH4AsABwc3EAfgC1dXEAfgCUAAAAAHNxAH4AsABwc3EAfgC1dXEAfgCUAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCacQB+AKN1cQB+AKQAAAAAc3EAfgCmAHEAfgBDdXEAfgCoAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ALh0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgC4c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDZdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AxnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4Aq3QABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AzVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AuHNxAH4AzHQABUFycmF5cQB+ANJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AzHQABlN0cmluZ3NxAH4A0HNxAH4A03VxAH4A1gAAAANzcQB+ANh0AARqYXZhc3EAfgDYdAAEbGFuZ3EAfgDdc3EAfgCwAHBzcQB+ALV1cQB+APEAAAADc3EAfgDMdAAOSnN5QXBwbGljYXRpb25zcQB+ANBzcQB+ANN1cQB+ANYAAAADc3EAfgDYdAADanN5c3EAfgDYdAAEdXRpbHEAfgDdc3EAfgDMdAAGT2JqZWN0cQB+APVzcQB+AMx0AANBbnlxAH4A0nVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFJpODqcXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADVDOlxGYWxsIDIwMTRcUHJpbmNQcm9nXExhYjRcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFDSFQeLN3JnuQ477oWfBxyITX5Hp
+external apis:
+0 items
+source infos:
+2 items
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\jsy\lab4\ast.scala -> 
+AAAAAAAAAAA=
+C:\Fall 2014\PrincProg\Lab4\src\main\scala\Lab4.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSaTg6nF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANUM6XEZhbGwgMjAxNFxQcmluY1Byb2dcTGFiNFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
