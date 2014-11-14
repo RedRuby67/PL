@@ -37,7 +37,8 @@ object Lab4 extends jsy.util.JsyApplication {
   /* Lists */
   
   // eliminates consecutive duplicates of list elements
-  // implement with direct recursion
+  // do not change order of elements
+  // implement with direct recursion on compressRec()
   def compressRec[A](l: List[A]): List[A] = l match {
     case Nil | _ :: Nil => l
     case h1 :: (t1 @ (h2 :: _)) => 
@@ -62,7 +63,8 @@ object Lab4 extends jsy.util.JsyApplication {
     case h :: t => f(h) match {
       // replaces first element for some a
       case Some(a) => a :: t
-      // otherwise recurse through elements
+      // otherwise recurse through elements, taking in the same
+      // option f and changing the list to the tail
       case None => h :: mapFirst(f)(t)
     }
   }
@@ -106,9 +108,13 @@ object Lab4 extends jsy.util.JsyApplication {
   // client of foldLeft and checks that data values of tree t are in order
   def strictlyOrdered(t: Tree): Boolean = {
     val (b, _) = t.foldLeft(true, None: Option[Int]) {
+	// foldLeft acts like a for loop that goes from left to right,
+	// so in this case, the accumulator must be one the left side, and
+	// the data value is one the right
       (acc, d) => (acc, d) match {
         case ((false, Some(a)), _) => (false, Some(a))
         case ((true, None), c) => (true, Some(c))
+        // we have to return true when a > c, false otherwise
         case ((b, Some(a)), c) => if (c < a) (true, Some(c)) 
         						  else (false, Some(a))
       }
@@ -139,21 +145,23 @@ object Lab4 extends jsy.util.JsyApplication {
       case B(_) => TBool
       case Undefined => TUndefined
       case S(_) => TString
+      
       // TypeVar
       case Var(x) => env(x)
       case ConstDecl(x, e1, e2) => typeInfer(env + (x -> typ(e1)), e2)
+      
       // TypeNeg
       case Unary(Neg, e1) => typ(e1) match {
         case TNumber => TNumber
         case tgot => err(tgot, e1)
       }
       
-      // added cases
       // TypeNot
       case Unary(Not, e1) => typ(e1) match {
         case TBool => TBool
         case tgot => err(tgot, e1)
       }
+      
       // TypePlus
       case Binary(Plus, e1, e2) => (typ(e1), typ(e2)) match {
         // TypePlusNumber
@@ -187,6 +195,7 @@ object Lab4 extends jsy.util.JsyApplication {
       	case (TString, TString) => TBool
       	case _ => err(typ(e1), e1)
       }
+      
       // TypeAndOr
       case Binary(And|Or, e1, e2) => (typ(e1), typ(e2)) match {
         case (TBool, TBool) => TBool
@@ -332,6 +341,7 @@ object Lab4 extends jsy.util.JsyApplication {
       case Binary(Div, N(n1), N(n2)) => N(n1 / n2)
      
       case Binary(bop @ (Lt|Le|Gt|Ge), v1, v2) if isValue(v1) && isValue(v2) => B(inequalityVal(bop, v1, v2))
+      
       case Binary(Eq, v1, v2) if isValue(v1) && isValue(v2) => B(v1 == v2)
       case Binary(Ne, v1, v2) if isValue(v1) && isValue(v2) => B(v1 != v2)
       case Binary(And, B(b1), e2) => if (b1) e2 else B(false)
@@ -411,6 +421,7 @@ object Lab4 extends jsy.util.JsyApplication {
       case Obj(map) => Obj(map.foldLeft(Map(): Map[String, Expr]) {
             (acc, x) => x match {
               case (f1, e1) if (isValue(e1)) => acc + (f1 -> e1)
+              // {fi:ei} -> {fi:ei`}
               case (f1, e1) => acc + (f1 -> step(e1))
           }
       })
