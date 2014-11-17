@@ -1,0 +1,5 @@
+const f = {foo: "variable", fi: 125, fun: function(x:string) { return (x + x) }, fun2: function(x:number) { return (x + x) } }; 
+
+f.fun(f.foo)
+
+f.fun2(f.fi)
