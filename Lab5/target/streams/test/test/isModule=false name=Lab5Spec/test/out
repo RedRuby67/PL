@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0m[32mLab5Spec:[0m[0m
+[0m[[0minfo[0m] [0m[32mmapFirstDoWith[0m[0m
+[0m[[0minfo[0m] [0m[32m- should map the first element where f returns Some[0m[0m
+[0m[[0minfo[0m] [0m[32mDoNeg[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the negative of a number[0m[0m
+[0m[[0minfo[0m] [0m[32mDoNot[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the negative of a boolean[0m[0m
+[0m[[0minfo[0m] [0m[32mDoPlus[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the addition of two numbers[0m[0m
+[0m[[0minfo[0m] [0m[32mDoMinus[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the difference of two numbers[0m[0m
+[0m[[0minfo[0m] [0m[32mDoTimes[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the product of two numbers[0m[0m
+[0m[[0minfo[0m] [0m[32mDoDiv[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the divison of two numbers[0m[0m
