@@ -1,0 +1,11 @@
+(function(name e: number) {
+  return e })
+  ({{5 * 8}})
+
+var x = 2
+const f = function(var x: number){return x = x * x} 
+f(x) * x
+
+var object1 = {a:5, b:"string", c: true}
+interface objecttype2 {a:number; b: string}
+var object2 = <objecttype2> object1

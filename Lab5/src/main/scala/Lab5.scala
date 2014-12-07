@@ -273,7 +273,10 @@ object Lab5 extends jsy.util.JsyApplication {
       
       // TypeAssignVar && TypeAssignField
       case Assign(e1, e2) => e1 match {
+		  // get variable type from env
       	case Var(x) => env.get(x) match {
+			// return error on e2 if constant
+			// otherwise map MVar and new type
       		case Some((MConst, t)) => err(typ(e1), e2)
       		case Some((MVar, t)) => if (t == typ(e2)) {
       			typeInfer(env + (x -> (MVar, typ(e2))), e2)
@@ -282,6 +285,8 @@ object Lab5 extends jsy.util.JsyApplication {
       		}
       		case _ => typeInfer(env + (x -> (MVar, typ(e2))), e2)
       	}
+      	
+      	// each field is assigned to a value
       	case GetField(x1, f) => typ(e1) match {
       		case t => typeInfer(env + (f -> (MConst, typ(e1))), e2)
       	}
@@ -290,6 +295,7 @@ object Lab5 extends jsy.util.JsyApplication {
       
       // TypeCast
       case Unary(Cast(e1), e2) => (castOk(typ(e2), e1)) match{
+		  // return e1 if valid cast, return error otherwise
         case true => e1;
         case false => err(typ(e2), e2);
         }
@@ -406,12 +412,17 @@ object Lab5 extends jsy.util.JsyApplication {
       case If(B(b1), e2, e3) => doreturn( if (b1) e2 else e3 )
       
       // DoObject
+      // Allocates memory for object and maps fields within the object
+      // to address a
       case Obj(fields) if (fields forall { case (_, vi) => isValue(vi)}) =>
         Mem.alloc(Obj(fields)) map { (a:A) => a:Expr }        
         
         // DoGetField
+        // Retrieves data of field f at address a
 		case GetField(a @ A(_), v) => 
+			// maps object address with DoWith object
 			doget.map((m: Mem) => m.get(a) match {
+			// does f exist?
 			case Some(Obj(fields)) => fields.get(v) match {
 				case Some(field) => field
 				case _ => throw StuckError(e)
@@ -425,7 +436,10 @@ object Lab5 extends jsy.util.JsyApplication {
           case None => e1
           case Some(x) => substitute(e1, v1, x)
         }
+        
+        // SearchCall2, SearchCallVar, SearchCallRed
         (v1, args) match {
+		  // make sure number of params matches expected values and substitute
           case (Function(p, Left(params), tann, e1), args) if params.length == args.length => {
             doreturn(substfun((params, args).zipped.foldRight(e1){
               (vars: ((String, Typ), Expr), acc: Expr) => (vars, acc) match {
@@ -433,19 +447,29 @@ object Lab5 extends jsy.util.JsyApplication {
               }
             }, p))
           }
-          // DoCall 
+		  
+		  // Pass by Value
           case (Function(p, Right((PVar, x1, _)), _, e1), v2 :: Nil) if isValue(v2) => {
+			  // allocate memory for args and map on a
+			  // substitute on e1 derefed with address and option sting
             Mem.alloc(v2) map {a => substfun(substitute(e1, Unary(Deref, a), x1), p)}
           }
+          
+          // Pass by Ref
           case (Function(p, Right((PRef, x1, _)), _, e1), lv2 :: Nil) if isLValue(lv2) => {
+			  // return substituted function, with param name substituted with
+			  // arg and p
             doreturn(substfun(substitute(e1, lv2, x1), p))
           }
+          
+          // Pass by Name
           case (Function(p, Right((PName, x1, _)), _, e1), e2 :: Nil) => {
+			  // return substituted function, with all instances of param name 
+			  // substituted with corresponding arg and p
             doreturn(substfun(substitute(e1, e2, x1), p))
           }
 
           // SearchCall
-          // SearchCallVar
           case (Function(p, Right((PVar, x, _)), _, e1), e2 :: Nil) => {
             step(e2) map {e2p => Call(v1, e2p :: Nil)}
           }
@@ -465,15 +489,18 @@ object Lab5 extends jsy.util.JsyApplication {
 
       // DoAssignVar
       case Assign(Unary(Deref, a @ A(_)), v) if isValue(v) =>
+        // modify address to value and store in memory
         for (_ <- domodify { (m: Mem) => (m. + (a, v)): Mem }) yield v
         
       // DoAssignField
       case Assign(GetField(a @ A(_),f), v) if isValue(v) =>
         for(_ <- domodify {
+		  // get memory at particular address if memory containes stored address of field
           (m: Mem) => {
             if(m.contains(a)){
               val obj = m(a)
               val newobj = obj match {
+			    // map fields f to v
                 case Obj(fields) => Obj( fields + (f -> (v)))
                 case _ => throw StuckError(e)
               }
